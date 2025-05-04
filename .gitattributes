@@ -1,0 +1,7 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+# Auto normalize text files
+* text=auto
+
+# Java files always use LF
+*.java text eol=lf
